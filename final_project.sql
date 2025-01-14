@@ -1,5 +1,4 @@
 -- PART I: SCHOOL ANALYSIS
-USE maven_advanced_sql;
 -- 1. View the schools and school details tables
 
 SELECT s.schoolID, s.yearID, sd.name_full, sd.city, sd.state, sd.country
